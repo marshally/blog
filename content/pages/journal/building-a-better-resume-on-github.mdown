@@ -1,4 +1,4 @@
-summary: Building a better resume on GitHub
+summary: I recently revamped my resume using tools (GitHub, Markdown, Mou, Chrome) from my every day programmer workflow. I found this process to be much more pleasant than the normal LinkedIn/Microsoft Word gymnastics. I hope you do as well!
 date: 2015-08-25 1:00:00.000000000 +00:00
 categories: career
 
