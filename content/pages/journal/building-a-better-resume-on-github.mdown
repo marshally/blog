@@ -24,6 +24,8 @@ The PDF text lands in a text editor like an ugly ball of mud, so we need to form
 
 I recommend the [Mou Markdown Editor](http://25.io/mou/) for the least painless workflow. We'll also use Mou later for its PDF export feature, so you might as well get started with it now!
 
+![mou](/images/building-a-better-resume-on-github/mou_side_by_side.png)
+
 A full lesson in Markdown formatting is beyond the scope of this blog post, but here's a generally representative section from my job experience section:
 
 ```Markdown
