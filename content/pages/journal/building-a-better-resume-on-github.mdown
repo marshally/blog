@@ -64,6 +64,8 @@ Think about formatting from the reader's perspective. Your resume is probably on
 
 Mou supports four different stylesheets that can be applied to HTML or PDF exports. I recommend the `GitHub2` theme.
 
+![mou css](/images/building-a-better-resume-on-github/mou_css.png)
+
 #### Preview in Chrome
 
 Open the document up in your web browser of choice. I like Google Chrome because you can easily print directly to PDF.
