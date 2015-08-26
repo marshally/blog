@@ -14,7 +14,7 @@ However, recently I've been frustrated by the **lack of a decent markup language
 
 First we have to get the junky old resume out of the LinkedIn. Use the PDF export feature.
 
-![save as pdf](/images/save_as_pdf.png)
+![save as pdf](/images/building-a-better-resume-on-github/save_as_pdf.png)
 
 Once you have the PDF in hand, copy all of the text (`Cmd-A`) and paste into a markdown file. I called mine [`resume.md`](https://github.com/marshally/resume/commit/a38b7d13a2063cf2ad4b484a7ef4f55bac4379bc).
 
