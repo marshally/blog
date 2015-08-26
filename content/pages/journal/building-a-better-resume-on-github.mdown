@@ -101,4 +101,6 @@ If you would like to force a page break before some kind of section header, add 
 <h2 style="page-break-before:always;">Outside of Work Projects</h2>
 ```
 
-You may want
+### Step 4: Back to LinkedIn
+
+I couldn't find a way to programmatically update LinkedIn, so I wound up copy/pasting my fancy new wordsmithed resume back into their forms. For now I'll have to keep this up to date by hand. Blerg.
