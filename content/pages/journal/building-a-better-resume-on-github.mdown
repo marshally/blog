@@ -97,9 +97,7 @@ Your mileage may vary.
 
 If you would like to force a page break before some kind of section header, add style tags to the element _after the page break_. For example:
 
-```html
-<h2 style="page-break-before:always;">Outside of Work Projects</h2>
-```
+`<h2 style="page-break-before:always;">Outside of Work Projects</h2>`
 
 ### Step 4: Back to LinkedIn
 
