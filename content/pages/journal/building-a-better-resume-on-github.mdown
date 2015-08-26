@@ -70,7 +70,9 @@ Mou supports four different stylesheets that can be applied to HTML or PDF expor
 
 Open the document up in your web browser of choice. I like Google Chrome because you can easily print directly to PDF.
 
-I recommend that you set the margins to `Minimum` and remove Chrome's automatic Header and Footer.
+I recommend that you set the margins to `Minimum` and remove Chrome's automatic Header and Footer. (lower left in the screenshot)
+
+![mou css](/images/building-a-better-resume-on-github/chrome_margins.png)
 
 #### CSS
 
